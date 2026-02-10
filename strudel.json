@@ -1,0 +1,8 @@
+{
+    "_base": "github:bgranata02/CART--398-samples",
+    "piano_sounds": [
+        "/piano_sounds/piano_one.wav",
+        "/piano_sounds/piano_two.wav",
+        "/piano_sounds/piano_three.wav"
+    ]
+}
